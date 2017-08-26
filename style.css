@@ -1,0 +1,472 @@
+#body-container {
+width: 1180px;
+margin: 0px auto;
+}
+
+.first-half {
+    width: 280px;
+    background-color: #ffffff;
+    float: left;
+}
+
+.sec-photo{
+    width: 280px;
+    height: 360px;
+    background-color: #E4E4E4
+}
+#person-image{
+    width: 200px;
+    height: 260px;
+    margin: 20px 40px -3px;
+}
+#head-photo{
+    width: 280px;
+    background-color: #0092ff;
+    height: 80px;
+    border-top: 5px solid #0363ae; 
+    text-align: center;
+    color: #ffffff;
+}
+
+.head-photoh1 {
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+
+
+
+
+
+
+
+
+
+
+.sec-info{
+    width: 280px;
+    height: 250px;
+    background-color: #ffffff;
+}
+#sec-info1{
+    background-color: #bcbcbc;
+    height: 50px;
+    width: 280px;
+  }
+
+#info-img1{
+ float: left;
+ margin: 5px 0px 0px 20px;
+}
+#infoPara1Text{
+float: left;
+width: 200px;
+margin: 17px 0px 0px 20px;
+}
+
+
+#sec-info2{
+    background-color: #c9c9c9;
+    height: 50px;
+    width: 280px;
+   
+}
+#info-img2{
+    float: left;
+    margin: 5px 0px 0px 20px;
+}
+#infoPara2Text{
+    float: left;
+    width: 200px;
+    margin: 17px 0px 0px 20px;
+}
+
+
+#sec-info3{
+    background-color: #cecece;
+    height: 50px;
+    width: 280px;
+
+}
+#info-img3{
+    float: left;
+    margin: 5px 0px 0px 20px;
+}
+#infoPara3Text{
+    float: left;
+    width: 200px;
+    margin: 12px  0px 0px 20px;
+    font-size: 12px;
+}
+
+
+
+#sec-info4{
+    background-color: #d3d3d3;
+    height: 50px;
+    width: 280px;
+   
+}
+#info-img4{
+    float: left;
+    margin: 5px 0px 0px 20px;
+}
+#infoPara4Text{
+    float: left;
+    width: 200px;
+    height: 30px;
+    margin: 17px 0px 0px 20px;
+}
+
+
+
+#sec-info5{
+    background-color: #d8d8d8;
+    height: 50px;
+    width: 280px;
+  
+}
+#info-img5{
+    float: left;
+    margin: 5px 0px 0px 20px;
+}
+#infoPara5Text{
+    float: left;
+    width: auto;
+    margin: 17px 0px 0px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+#sec-profile{
+    width:280px;
+    height: 370px;
+    background-color: #ffffff;
+}
+#head-profile{
+    width: 280px;
+    background-color: #febd00;
+    height: 80px;
+    border-top: 5px solid #b88900;
+    color: #ffffff;
+}
+.head-profileh1 {
+    text-align: center;
+    margin-top: 22px;
+}
+.profileInfoText {
+    text-indent: 15px;
+    margin: 30px 0px 0px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+#sec-skills{
+    width: 280px;
+    height: 480px;
+    background-color: #ffffff;
+}
+#head-skills{
+    width: 280px;
+    background-color: #50bd00;
+    height: 80px;
+    border-top: 6px solid #388101;
+    color: #ffffff;
+}
+#skill1{
+    margin:60px 0px 0px 20px;
+    text-indent: 5px;
+}
+#skill2{
+    margin-left: 20px;
+    text-indent: 5px;
+}
+#skill3{
+    margin-left: 20px;
+    text-indent: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+#sec-hobbies{
+    width: 280px;
+    height: 340px;
+    background-color: #ffffff;
+
+}
+#head-hobbies{
+    width: 280px;
+    background-color: #ff493b;
+    height: 80px;
+    border-top: 5px solid #b13329;
+    color: #ffffff;
+}
+#hobbes-ul li {
+margin: 20px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.second-half {
+    width: 900px;
+    height: 1800px;
+    background-color:#331b3d ;
+    float: left;
+}
+
+.second-half-container {
+     width: 700px;
+    height: 1700px;
+    background-color:#331b3d ;
+    margin: 50px auto;   
+}
+
+
+
+
+
+#head-line {
+    /* box-shadow: 0px 5px 20px 5px #27152f; */
+    width: 600px;
+    height: 30px;
+    margin: 0px 50px;  
+}
+
+
+/******************* experience *********************88*/
+
+#work-expe {
+    width: 700px;
+    height: 360px;
+    margin: -5px auto;
+    text-align: center
+}
+#work-expe-h1{
+    color: white;
+    font-size: 40px;
+}
+
+/***************************** company 1 ****************************/
+
+.company1Name {
+    color: #0c74cf;
+    margin-bottom: -15px;
+}
+.company1Year {
+    color: #887592;
+}
+.company1Post {
+    color: #887592;
+    margin-bottom: -15px;
+}
+.company1PostInfo {
+    color: #887592;
+}
+
+/***************************** company 2 ****************************/
+#company2 {
+margin: 30px auto
+
+}
+
+.company2Name {
+    color: #0c74cf;
+    margin-bottom: -15px;
+}
+.company2Year {
+    color: #887592;
+}
+.company2Post {
+    color: #887592;
+    margin-bottom: -15px;
+}
+.company2PostInfo {
+    color: #887592;
+}
+
+
+/************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+#education {
+    width: 700px;
+    height: 420px;
+    text-align: center;
+    margin: 0px auto 5px;
+}
+#education-h1{
+    color: white;
+    font-size: 40px;
+}
+
+/*************  School *************/
+#school {
+    margin: -10px;
+}
+#school-head{
+    color: #febd00
+}
+#school-info{
+    margin: 0px auto;
+    border-collapse: collapse;
+}
+#school-info td{
+    padding: 5px 15px; 
+    color: #887592;
+    border: 1px solid #887592;
+    }
+
+/*************** Collage ************/
+
+
+#collage-head{
+    color: #febd00
+}
+#collage-info{
+    margin: 0px auto;
+    border-collapse: collapse;
+}
+#collage-info td{
+    padding: 5px 15px; 
+    color: #887592;
+    border: 1px solid #887592;
+    }
+
+
+/*************** Collage ************/
+
+
+#university-head{
+    color: #febd00
+}
+#university-info{
+    margin: 0px auto;
+    border-collapse: collapse;
+}
+#university-info td{
+    padding: 5px 15px; 
+    color: #887592;
+    border: 1px solid #887592;
+    }
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#language {
+    width: 700px;
+    height: 240px;
+    margin-top: -5px;
+    text-align: center
+    
+}
+#language-h1 {
+    color: #ffffff;
+    font-size: 40px;
+}
+#urdu {
+    width: 200px;
+    height: 170px;
+    margin: 0px 0px 0px 130px;
+    float: left;
+}
+#urdu-h3 {
+    color: #49960e;
+}
+
+#english {
+    width: 200px;
+    height: 180px;
+    margin: 0px 0px 0px 40px;
+     float: left;  
+}
+#english-h3 {
+    color: #e5433a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#portfolio {
+    width: 700px;
+    height: 300px;
+    text-align: center;
+    margin-bottom: 120px;
+}
+#portfolio-h1{
+    color: #ffffff;
+    font-size: 40px;
+    
+}
+#portfolio-info{
+    
+    margin: 0px auto;
+    width: 600px;
+    height: 300px;
+}
+.mySlides{
+    width: 600px;
+    height: 300px;
+}
+
+
+
+
+
+
